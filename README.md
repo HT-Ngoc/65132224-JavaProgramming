@@ -1,2 +1,2 @@
 # 65132224-JavaProgramming
-Nơi lưu bài tập lập trình thiết bị di động 
+Lưu bài tập thực hành môn Lập Trình Thiết bị Di Động
